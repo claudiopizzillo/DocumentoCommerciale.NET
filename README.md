@@ -33,7 +33,7 @@ DocumentoCommerciale è un progetto open source di Claudio Pizzillo e rilasciato
 
 E' necessario possedere credenziale Entratel valide per autenticarsi su Agenzia delle Entrate.
 
-Esempio d'usto su: https://github.com/claudiopizzillo/DocumentoCommerciale.NET/wiki/Esempio
+Esempio d'uso su: https://github.com/claudiopizzillo/DocumentoCommerciale.NET/wiki/Esempio
 
 
 
